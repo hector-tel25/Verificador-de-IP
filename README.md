@@ -1,4 +1,4 @@
-# 🖧 Verificador de IP e
+# 🖧 Verificador de IP 
 
 Aplicación de escritorio en **Python + Tkinter** que permite verificar si una dirección **IP** pertenece a una red en formato **CIDR**.  
 
