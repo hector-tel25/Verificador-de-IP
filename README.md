@@ -36,7 +36,7 @@ Está pensada como una herramienta sencilla pero práctica para:
 -Librerías estándar de Python (tkinter, ipaddress)
 👉 No es necesario instalar dependencias adicionales
 
-📄 Licencia
+📄 
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo, modificarlo y distribuirlo libremente.
 
