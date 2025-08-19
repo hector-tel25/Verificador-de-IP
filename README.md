@@ -31,7 +31,13 @@ Está pensada como una herramienta sencilla pero práctica para:
 
 #🛠️ Requisitos
 
-Python 3.7 o superior
+-Python 3.7 o superior
 
-Librerías estándar de Python (tkinter, ipaddress)
+-Librerías estándar de Python (tkinter, ipaddress)
 👉 No es necesario instalar dependencias adicionales
+
+📄 Licencia
+Este proyecto está bajo la licencia MIT.
+Puedes usarlo, modificarlo y distribuirlo libremente.
+
+👨‍💻 Desarrollado por hector-tel25
